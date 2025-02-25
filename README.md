@@ -1,5 +1,5 @@
 <p>
-  <img src = "README/icon.SVG" width = "42">
+  <img src = "README/icon 1.png" width = "42">
   <h1>ToDo App</h1>
 </p>
 
