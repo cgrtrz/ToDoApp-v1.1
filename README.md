@@ -6,10 +6,10 @@
 Welcome to ToDoApp – a simple, intuitive, and powerful task management app built with SwiftUI and MVVM architecture. Stay organized, boost productivity, and conquer your daily goals with ease. Designed for simplicity and efficiency, ToDoApp keeps your tasks at your fingertips without compromising your privacy.
 
 <p align="center">
-<img src="Frame 1.png" width="20%" />
-<img src="Frame 2.png" width="20%" />
-<img src="Frame 3.png" width="20%" />
-<img src="Frame 4.png" width="20%" />
+<img src="README/Frame 1.png" width="20%" />
+<img src="README/Frame 2.png" width="20%" />
+<img src="README/Frame 3.png" width="20%" />
+<img src="README/Frame 4.png" width="20%" />
 </p>
 
 ## 🚀 Features
