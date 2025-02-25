@@ -1,79 +1,53 @@
-# (D R A F T)
+<p>
+  <img src = "Frame 1.png" width = "42">
+  <h1>ToDo App</h1>
+</p>
 
+Welcome to ToDoApp – a simple, intuitive, and powerful task management app built with SwiftUI and MVVM architecture. Stay organized, boost productivity, and conquer your daily goals with ease. Designed for simplicity and efficiency, ToDoApp keeps your tasks at your fingertips without compromising your privacy.
 
-# 📌  ToDo App
-
-Short and descriptive tagline or purpose of the project.
-
-This site was built using [GitHub Pages](https://pages.github.com/)
+<p align="center">
+<img src="Frame 1.png" width="20%" />
+<img src="Frame 2.png" width="20%" />
+<img src="Frame 3.png" width="20%" />
+<img src="Frame 4.png" width="20%" />
+</p>
 
 ## 🚀 Features
-	•	✅ Feature 1: Brief description of the feature.
-	•	✅ Feature 2: Brief description of the feature.
-	•	✅ Feature 3: Brief description of the feature.
 
-## 📂 Project Structure
+✅ Easy Task Management – Quickly add, edit, and delete tasks with a user-friendly interface.
 
-ProjectName/
-├── Source/
-│   ├── Feature1/
-│   ├── Feature2/
-│   └── Feature3/
-├── Resources/
-└── README.md
+🔄 Task Prioritization – Organize your to-dos by importance and deadlines.
 
-## 💻 Technologies Used
-	•	Language/Framework: (e.g., Swift, SwiftUI)
-	•	Database: (e.g., Core Data, Firebase)
-	•	Design Pattern: (e.g., MVVM, Repository Pattern)
-	•	Other Tools: (e.g., Combine, Alamofire, etc.)
+☁️ iCloud Sync – Access your tasks across all your Apple devices seamlessly.
 
-## 🛠️ Installation & Usage
+🔒 Data Privacy First – Your data is stored only on your device and iCloud—nothing is shared externally.
 
-### Prerequisites
-	•	Install Xcode version XX.X or higher.
-	•	Swift version X.X or higher is required.
+🎉 Completion Tracker – Visualize your accomplishments by marking tasks as complete.
 
-### Setup
-	1.	Clone the repository:
+🎯 Minimalist Design – A clean, distraction-free interface that keeps you focused.
 
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+👶 Family-Friendly – Rated 4+, safe for all users.
 
+## 🛠️ Built With
 
-	2.	Open the .xcodeproj or .xcworkspace file in Xcode.
-	3.	Run the project on a simulator or connected device.
+This app was developed using modern frameworks and best practices:
 
-## 🧪 Testing
+🍎 SwiftUI – For creating responsive and interactive user interfaces.
 
-To run the unit tests, use the following command in the Xcode terminal:
+📐 MVVM Architecture – A clean, scalable design pattern for better code organization.
 
-xcodebuild test -scheme ProjectName -destination 'platform=iOS Simulator,name=iPhone 14'
+📊 Core Data – Efficient local data management.
 
-## 📜 Documentation
+☁️ iCloud Integration – Seamless task synchronization across Apple devices.
 
-Refer to the Wiki for detailed guides and additional documentation.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-	1.	Fork the repository.
-	2.	Create a new branch: git checkout -b feature-name.
-	3.	Commit your changes: git commit -m "Add feature name".
-	4.	Push the branch: git push origin feature-name.
-	5.	Open a pull request.
-
-## 🌟 Acknowledgments
-	•	Special thanks to ContributorName for support.
-	•	Icons from FontAwesome.
-	•	[Other relevant resources].
-
-## 📃 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For any inquiries or suggestions, feel free to contact me:
-	•	Email: your.email@example.com
-	•	GitHub: @yourusername
+Got questions, feedback, or just want to connect? Feel free to reach out!
+
+📧 Email: <a href = "mailto:cagri_terzi@hotmail.com"> cagri_terzi@hotmail.com </a>
+
+💻 GitHub <a href = "https://github.com/cgrtrz"> @cgrtrz </a>
